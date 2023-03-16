@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /**
  *main - Main function
  *Return: 0(Success)
