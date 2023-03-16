@@ -1,8 +1,7 @@
 #include <studio.h>
-
 /**
- *main - Entry Point
- *Return: Always 0(Success)
+ *main - Main function
+ *Return: 0(Success)
  */
 
 int main(void)
